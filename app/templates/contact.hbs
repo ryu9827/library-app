@@ -1,0 +1,43 @@
+<h1>Contact</h1>
+<div class="jumbotron text-center">
+  <h1>Leave your contact details</h1>
+
+  <br/><br/>
+
+  <p>Please leave a message.</p>
+
+  <div class="form-horizontal form-group form-group-lg row">
+    <div class="row">
+    <div class="has-success has-feedback col-md-4 col-md-offset-4">
+      <!--<label class="control-label" for="inputSuccess2">Input with success</label>-->
+      {{input type="text" value=message class="form-control" placeholder="Leave a message" autofocus="autofocus"  id="message" aria-describedby="messageStatus"}}
+      <span class={{msgFeedback}} aria-hidden="true"></span>
+      <span id="messageStatus" class="sr-only">(success)</span>
+    </div>
+    </div>
+    <br>
+    <div class="row">
+      <div class="has-success has-feedback col-md-4 col-md-offset-4">
+        <!--<label class="control-label" for="inputSuccess2">Input with success</label>-->
+        {{input type="text" value=emailAddress class="form-control" placeholder="Email address" id="emailAddress" aria-describedby="emailAddressStatus"}}
+        <span class={{emailFeedback}} aria-hidden="true"></span>
+        <span id="emailAddressStatus" class="sr-only">(success)</span>
+      </div>
+    </div>
+    <br>
+    <div class="col-md-offset-4 col-md-4">
+      <button class="btn btn-primary btn-lg btn-block" disabled={{isDisabled}} {{action 'sendMsg'}}>Send message</button>
+    </div>
+  </div>
+  {{#if responseMessage}}
+    <div class="alert alert-danger">{{responseMessage}}</div>
+  {{/if}}
+  <!--<p>message: {{message}}</p>-->
+  <!--<p>isMsgValid: {{isMsgValid}}</p>-->
+  <!--<p>msgFeedback: {{msgFeedback}}</p>-->
+  <!--<p>emailAddress: {{emailAddress}}</p>-->
+  <!--<p>isEmailValid: {{isEmailValid}}</p>-->
+  <!--<p>bothValid: {{bothValid}}</p>-->
+  <!--<p>isDisabled: {{isDisabled}}</p>-->
+  <br/><br/>
+</div>
