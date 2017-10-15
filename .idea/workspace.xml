@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d5171ec-30e4-4948-890b-90d1fa250055" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/index.js" afterPath="$PROJECT_DIR$/app/controllers/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/router.js" afterPath="$PROJECT_DIR$/app/router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/application.hbs" afterPath="$PROJECT_DIR$/app/templates/application.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/index.hbs" afterPath="$PROJECT_DIR$/app/templates/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/navbar.hbs" afterPath="$PROJECT_DIR$/app/templates/navbar.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.js" afterPath="$PROJECT_DIR$/config/environment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
@@ -17,8 +18,133 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/libraries/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/libraries/new.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/routes/libraries/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="libraries.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/libraries.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/index.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resolver.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/resolver.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-167">
+              <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="19" />
+              <folding>
+                <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/controllers/contact.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/navbar.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/environment.js" />
+        <option value="$PROJECT_DIR$/app/controllers/index.js" />
+        <option value="$PROJECT_DIR$/app/templates/index.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/admin/invitations.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/application.hbs" />
+        <option value="$PROJECT_DIR$/app/routes/admin/invitations.js" />
+        <option value="$PROJECT_DIR$/app/router.js" />
+        <option value="$PROJECT_DIR$/app/templates/library.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/navbar.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/libraries.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/libraries/index.hbs" />
+        <option value="$PROJECT_DIR$/app/templates/libraries/new.hbs" />
+        <option value="$PROJECT_DIR$/app/routes/libraries/index.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -30,6 +156,300 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-0GmVoOqf.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-1Tl9Qwhv.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-1xnbfOn0.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-2Eb6fpaG.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-3iWvkX3w.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-5QfzC7pL.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-62VbsqO1.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-6uskgUXf.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-83dz2uWq.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-C59GyFqn.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-CgRfExNU.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-DQ2MeZLg.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Fs7Kow1f.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-FtfbYruR.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HOdg2MZh.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-HYIS3DWW.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-JOUFYvxu.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-JWZV3wrV.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-JldoxErP.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-LfWaMHks.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-N6vaVXca.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-NINDwH66.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-NSJIKLKD.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-OwB7i4uo.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-P2dwmz3c.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-PaE3TKaJ.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-QbnQJQt0.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Qk571XUq.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-QzFFP9Fl.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-RjoS4acn.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-SSPoLqNX.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-U4FZ2HxW.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-UBJRgXAF.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ULlabvhO.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Ub3fN9jy.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-Xeg0cg5f.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YKmnQ1HA.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YRzdcwJJ.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-YgOx08Eu.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ZozvmHkL.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-a0oJllwB.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-ayhoenFh.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-cw4u4a0F.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-dlYkyBOK.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-e0g9BQ0D.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-eHI71xS9.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-fJebJ7Md.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-gQyaXynw.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-hOPE5sNq.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-iUn5zuv0.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-j73q0GVF.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-jT0NnC45.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-l9xp1C7I.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-lLen7cmF.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-lRC8X55T.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-mXWyuDmV.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-mzaZPh5d.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-n6f0FMBf.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-nGa5JtJf.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-o2Te1IQ5.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-oysIROUN.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-s4cBBoRA.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-sVHO2RGb.tmp/1/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-t87r57Do.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-vTuOVI2R.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-xhfZZTZA.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-xkWGXFtV.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-xqY4wCIV.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-xsyY8ECP.tmp/3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-yWwEwJRq.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zIdapUSf.tmp/0/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-input_base_path-zUYRIxJJ.tmp/2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-0OIPQLiY.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-1t9L5gsG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-2t9Tg8Yk.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3xICcsfl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-47ebNli7.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-4L7uiaDR.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-6wFM7Zkh.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-7R2Qjhki.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-AMAjSxnG.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-AhzRULCq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-AybAh6RF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-B1y1QFVc.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-BkZ1Sgdu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-CvGB7QAe.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-DVywz8a4.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-EMHNYcHG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Ex97OQei.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-F1uB2JM6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-G0I5YmlO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Gh5ltlGA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-GuybhrG5.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-HAp4sKYb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-HOpWpoBN.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-HoT3v6Bz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-IJOZ9fEc.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-JqL8Lc3h.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-KhntCalC.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-LkTwsIMs.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Me3Kdppg.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-NJBLd16b.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-NhesSnVq.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ORZh2Eln.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-PNfE0yLv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Q45ByjtN.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-Q6SP4oHl.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-QMKzZqZa.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-QkkZh8Jg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-QxEEAGkF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RKKthz4a.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-RKu1L5AT.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ShmXkrAl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-StR09OdN.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-VvNz8siN.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-WgUNg6Id.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ZfK81CsT.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-a3LK9LND.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-cnYwPa94.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ct45Ru4D.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-czVcd0UI.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-eyD1Ub1Y.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-g37eqOcQ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-h1Wr7wKa.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-hjapsdi4.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-hkecKKqu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-j3KkDsdV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-jWXdlt0b.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-jyP9EhCJ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-kPiUyWmx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-kvNgddrz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-mPGf4hUI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-o2Tf3aJt.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ph1v7Xc1.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-q4XnZNux.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-sLAfyWl8.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-snGl40Bv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-tY30YRWl.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-uv2B1aYT.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-vbsxJkGJ.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-wqoLq9oz.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-xMATFnMu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-yJKzP3Bq.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-yQr8o4OV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-zAW5T2U3.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-zzJexM9S.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-0clmldRS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-1fUjbmNz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-2f0xUEBA.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-3oKfvqbz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-4hwF6fNX.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-7XSwut4Y.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-BvfsQDcS.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-DPcpj75Z.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-DViRz5eF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-E1ZXfIq8.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-H9iZVvay.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-IYnoAQR8.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-JUlhH30B.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-NgE1xtWr.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-QCzQiKbD.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-TcrkNOhK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-UCyGjSGF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-UydjDa1y.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-V38COdjb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-VlE4EbHW.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-Ykt2WtMC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-aTCMqHTv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-aZKZFgE6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-eIOn0N75.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-g5ohyLTV.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-hqz0bNvL.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-jT01sUa0.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-l7emkUFC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-mJVeV6nX.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-n118eyo1.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-nlW6O7sM.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-qR5HHkUs.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-rN7MzEEF.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-rgJZk1W6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-vjSQJMDP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-input_base_path-z3Cz1w9R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-AbYuR2yO.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-BLLNOLfw.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-NUinU9qj.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-SsylJn8R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-XfKquGvU.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-XnL2jFXb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-c3W6YVIQ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-ffiJeOVG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-gobfWd0k.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-npLZvSCC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-qwxl58hz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/funnel-output_path-vcrwRHIu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-A04qtK8k.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-HR9WOQoA.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-JJ5p5oSO.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-JyiUnWE8.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-K8JWMxkW.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-RwK81R3T.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-TtFazvrU.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-cCYvnebL.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-kme7ihXS.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-kxeNJN2S.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-lnHCfw95.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-qOYlB2PA.tmp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-38JNGhGe.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-3PHK1eRM.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-7SO5B1GI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-BItNJ1xS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-Ct8f5jkz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-DmoetL9Q.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-KV2H52UD.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-aSdDFrke.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-cbrGpNVK.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-dSuPRfS1.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-nj6h4Cn3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/sass_compiler-input_base_path-pH34tAW7.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-2QGjgDIq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-4NHongNo.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-CMCqGJ2z.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-CS4xcWMi.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-GoCZO4FV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-KRfuvhRa.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-PySs5K8o.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-Q40ebhE3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-QGcg9uw0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-Ty8WzpBB.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-WeGuwHfX.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-YPpPxzc8.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ZHhLRpyW.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-en8G5Sw5.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-fhRC4tOS.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-geIOVj9K.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-hrRwpn6e.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-jWk1sVTz.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-nzfBrOSJ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-oPakXrEV.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-siyIAaAI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-uD7x2nyx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ujawCZgv.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/simple_concat_concat-input_base_path-ysIRwE37.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-0HF4pAiu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-0ThIEMbb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-0eO1yXW4.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-2Hjafbgu.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-5XeZBtI9.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-67JzqYb0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-7MeTNVJU.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-8ikTiefg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-AQ8BNYVC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-D9vlNU1M.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-JSO3CSoG.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-K5y0n5eZ.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-LLVX3awb.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-Lp8PEuP6.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-Mog7ehaN.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-OBTSKfHP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-PbZip3K0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-QcUNWbRP.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-UiLJRA0R.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-VsLbKulf.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-afDCeuAq.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-bjaqQlC0.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-dIYYlvsL.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-djlGLcrx.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-es4z24Ou.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-gMFhB8hg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-hiSBGfsI.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-kLeXFZd5.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-kcA5TDlg.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-nPVdvCkC.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-o7zQYUED.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-pNRP1I9j.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-qxBazaxe.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-yFh08sy1.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-zmE04EMw.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/source_map_concat-input_base_path-zyldkvX3.tmp/vendor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-NDYlZ710.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-RnjQ1uk8.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-f3GsnuAh.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-mbiTILWl.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-nedMBOCJ.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-vqhmTgW2.tmp/0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tmp/webpack_writer-input_base_path-waF7L20m.tmp/0/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-3xICcsfl.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-F1uB2JM6.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-G0I5YmlO.tmp/vendor/package.json" />
+    <dismissed value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-ORZh2Eln.tmp/vendor/package.json" />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
@@ -54,6 +474,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,14 +492,63 @@
               <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="libraries" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="libraries" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="library-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="library-app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -100,6 +571,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7d5171ec-30e4-4948-890b-90d1fa250055" name="Default" comment="" />
@@ -107,41 +581,471 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507878438171</updated>
-      <workItem from="1507878450879" duration="378000" />
+      <workItem from="1507878450879" duration="2041000" />
+      <workItem from="1507881283163" duration="1134000" />
+      <workItem from="1507882555390" duration="578000" />
+      <workItem from="1507927329515" duration="59000" />
+      <workItem from="1507928980871" duration="503000" />
+      <workItem from="1507943940463" duration="730000" />
+      <workItem from="1507945377912" duration="27000" />
+      <workItem from="1508017127213" duration="2423000" />
+      <workItem from="1508023528196" duration="3982000" />
+      <workItem from="1508027883396" duration="7811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378000" />
+    <option name="totallyTimeSpent" value="19288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1848" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972677" sideWeight="0.4958159" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15027322" sideWeight="0.49137932" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24972677" sideWeight="0.5041841" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15501691" sideWeight="0.5086207" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23430963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/admin/invitations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/invitations.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="64" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/contact.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/admin/invitations.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/invitation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/admin/invitations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/library.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/library.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/libraries/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/libraries/new.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/libraries/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/navbar.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/libraries.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/index.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/resolver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <marker date="1508024488333" expanded="true" signature="67:741" ph="{&quot;headerMessage&quot;: 'Coming Soon'...}" />
+            <marker date="1508024488333" expanded="true" signature="279:738" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="307:732" ph="{...}" />
+            <marker date="1508024488333" expanded="true" signature="434:478" ph="{&quot;email&quot;: email...}" />
+            <marker date="1508024488333" expanded="true" signature="534:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
